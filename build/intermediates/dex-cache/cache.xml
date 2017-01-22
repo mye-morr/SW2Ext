@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\michael\AndroidStudioProjects\HelloLayouts2\HabitAid SW2 Extension\build\intermediates\exploded-aar\HelloLayouts2\smartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d09837cf035b5db5e706e40502177e1bd5e97e6">
+        <dex dex="C:\Users\michael\AndroidStudioProjects\HelloLayouts2\HabitAid SW2 Extension\build\intermediates\pre-dexed\debug\HelloLayouts2-smartExtensionUtils-unspecified_c9868677a123c6974dc70928fbde4bda3b615f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\michael\AndroidStudioProjects\HelloLayouts2\HabitAid SW2 Extension\build\intermediates\exploded-aar\HelloLayouts2\smartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bbba82d2be3798c99c91c558b1a61501b2b406f1">
+        <dex dex="C:\Users\michael\AndroidStudioProjects\HelloLayouts2\HabitAid SW2 Extension\build\intermediates\pre-dexed\debug\HelloLayouts2-smartExtensionAPI-unspecified_b95f7882b37fff7c1622fbe0b082c3587d5aad26.jar" />
+    </item>
+
+</items>

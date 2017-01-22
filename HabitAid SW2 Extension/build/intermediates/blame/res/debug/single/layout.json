@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\fc2.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\fc2.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_widget.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\exploded-aar\\HelloLayouts2\\smartExtensionUtils\\unspecified\\res\\layout\\smart_watch_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\fc_lang_3.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\fc_lang_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\fc_cat_4.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\fc_cat_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\fc1.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\fc1.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\notif.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\notif.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\fc3.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\src\\main\\res\\layout\\fc3.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_notification_widget.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\exploded-aar\\HelloLayouts2\\smartExtensionUtils\\unspecified\\res\\layout\\smart_watch_notification_widget.xml"
+    }
+]

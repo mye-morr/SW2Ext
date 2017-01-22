@@ -1,0 +1,4 @@
+#Mon Dec 26 00:50:10 EST 2016
+base.0=C\:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

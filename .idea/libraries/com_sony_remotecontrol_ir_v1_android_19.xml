@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.sony.remotecontrol.ir.v1-android-19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/add-ons/addon-sony_add-on_sdk_3_0-sony-19/libs/com.sony.remotecontrol.ir.v1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

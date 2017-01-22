@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\HabitAid SW2 Extension\\build\\intermediates\\exploded-aar\\HelloLayouts2\\smartExtensionUtils\\unspecified\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            }
+        ]
+    }
+]

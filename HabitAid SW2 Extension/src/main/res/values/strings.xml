@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No translation of sample extensions -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Name of app, shown when installing/uninstalling extension -->
+    <string name="app_name">HabitAid SW2 Extension</string>
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">HabitAid SW2 Extension</string>
+    <!-- Name of extension, shown in preferences -->
+    <string name="extension_name">HabitAid SW2 Extension</string>
+    <!-- Configuration title shown in preferences -->
+    <string name="configuration_text">HabitAid SW2 Settings</string>
+    <!-- Menu option shown in preferences -->
+    <string name="preference_option_read_me">READ ME</string>
+    <string name="preference_key_read_me">preference_key_read_me</string>
+
+    <string name="preference_option_caption_2">Caption -2</string>
+    <string name="preference_key_caption_2">caption-2</string>
+
+    <string name="preference_option_caption_1">Caption -1</string>
+    <string name="preference_key_caption_1">caption-1</string>
+
+    <string name="preference_option_caption0">Caption 0</string>
+    <string name="preference_key_caption0">caption0</string>
+
+    <string name="preference_option_caption1">Caption +1</string>
+    <string name="preference_key_caption1">caption+1</string>
+
+    <string name="preference_option_caption2">Caption +2</string>
+    <string name="preference_key_caption2">caption+2</string>
+
+    <string name="preference_option_extension_key">Extension Key</string>
+    <string name="preference_key_extension_key">ExtensionKey</string>
+
+    <!-- Read me text shown in dialog -->
+    <string name="preference_option_read_me_txt">The Hello Layouts extension starts a control extension that can use both a layout and a bitmap mode to render to the accessory display. Each mode has its own way of updating the views and receiving click events.</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_show_bitmap">Change to bitmap</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_tap_to_update">Tap to update</string>
+
+    <!-- Text used on control layout -->
+    <string name="reset_layout">Reset layout</string>
+
+    <!-- Text used on control layout -->
+    <string name="text_show_layout">Change to layout</string>
+
+</resources>

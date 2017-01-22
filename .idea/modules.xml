@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HabitAid SW2 Extension/HabitAid SW2 Extension.iml" filepath="$PROJECT_DIR$/HabitAid SW2 Extension/HabitAid SW2 Extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloLayouts2.iml" filepath="$PROJECT_DIR$/HelloLayouts2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartExtensionAPI/smartExtensionAPI.iml" filepath="$PROJECT_DIR$/smartExtensionAPI/smartExtensionAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartExtensionUtils/smartExtensionUtils.iml" filepath="$PROJECT_DIR$/smartExtensionUtils/smartExtensionUtils.iml" />
+    </modules>
+  </component>
+</project>

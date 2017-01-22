@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/smart_watch_2_control_width"
+    android:layout_height="@dimen/smart_watch_2_control_height"
+    android:background="@android:color/black"
+    tools:ignore="ContentDescription,PxUsage" >
+
+    <LinearLayout
+        android:id="@+id/linLayoutTitle"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="23px"
+        android:weightSum="2">
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:gravity="left"
+            android:text="@string/text_tap_to_update"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smart_watch_2_text_size_medium"
+            android:typeface="normal"
+            android:background="@drawable/myshape"
+            android:layout_marginTop="1dp"
+            android:accessibilityLiveRegion="polite" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linLayoutValues"
+        android:layout_below="@id/linLayoutTitle"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        >
+   
+    <LinearLayout
+        android:id="@+id/linLayoutCaption"
+        android:orientation="vertical"
+        android:layout_width="20px"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1px"
+        android:weightSum="2"
+        >
+
+        <LinearLayout
+            android:id="@+id/linLayout1caption"
+            android:layout_width="match_parent"
+            android:layout_height="38px"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            >
+
+            <TextView
+                android:id="@+id/txt1caption"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="false"
+                android:gravity="center"
+                android:text="@string/text_tap_to_update"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/smart_watch_2_text_size_medium"
+                android:typeface="normal"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linLayout2caption"
+            android:layout_below="@id/linLayout1caption"
+            android:layout_width="match_parent"
+            android:layout_height="38px"
+            android:weightSum="2" >
+
+            <TextView
+                android:id="@+id/txt2caption"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="false"
+                android:gravity="center"
+                android:text="@string/text_tap_to_update"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/smart_watch_2_text_size_medium"
+                android:typeface="normal"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/linLayout3caption"
+            android:layout_below="@id/linLayout2caption"
+            android:layout_width="match_parent"
+            android:layout_height="38px"
+            android:weightSum="2" >
+
+            <TextView
+                android:id="@+id/txt3caption"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="false"
+                android:gravity="center"
+                android:text="@string/text_tap_to_update"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/smart_watch_2_text_size_medium"
+                android:typeface="normal" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/linLayout4caption"
+            android:layout_below="@id/linLayout3caption"
+            android:layout_width="match_parent"
+            android:layout_height="38px"
+            android:weightSum="2" >
+
+            <TextView
+                android:id="@+id/txt4caption"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="false"
+                android:gravity="center"
+                android:text="@string/text_tap_to_update"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/smart_watch_2_text_size_medium"
+                android:typeface="normal"
+                />
+        </LinearLayout>
+    </LinearLayout>    
+    
+<LinearLayout
+    android:id="@+id/linLayoutAnswers"
+    android:orientation="vertical"
+    android:layout_toRightOf="@id/linLayoutCaption"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2">
+
+    <LinearLayout
+        android:id="@+id/linLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="38px"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        >
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="@string/text_tap_to_update"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smart_watch_2_text_size_medium"
+            android:typeface="normal"
+            android:singleLine="false"
+            android:background="@drawable/myshape" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linLayout2"
+        android:layout_below="@id/linLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="38px"
+        android:weightSum="2" >
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="@string/text_tap_to_update"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smart_watch_2_text_size_medium"
+            android:typeface="normal"
+            android:background="@drawable/myshape" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linLayout3"
+        android:layout_below="@id/linLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="38px"
+        android:weightSum="2" >
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="@string/text_tap_to_update"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smart_watch_2_text_size_medium"
+            android:typeface="normal"
+            android:background="@drawable/myshape" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linLayout4"
+        android:layout_below="@id/linLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="38px"
+        android:weightSum="2">
+
+        <TextView
+            android:id="@+id/txt4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="@string/text_tap_to_update"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smart_watch_2_text_size_medium"
+            android:typeface="normal"
+            android:background="@drawable/myshape" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+</RelativeLayout>

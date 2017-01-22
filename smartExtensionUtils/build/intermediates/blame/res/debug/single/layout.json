@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\smartExtensionUtils\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_notification_widget.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\smartExtensionUtils\\src\\main\\res\\layout\\smart_watch_notification_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\smartExtensionUtils\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_widget.xml",
+        "source": "C:\\Users\\michael\\AndroidStudioProjects\\HelloLayouts2\\smartExtensionUtils\\src\\main\\res\\layout\\smart_watch_widget.xml"
+    }
+]

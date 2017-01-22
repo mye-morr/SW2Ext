@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.sonymobile.camera.addon-android-19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/add-ons/addon-sony_add-on_sdk_3_0-sony-19/libs/com.sonymobile.camera.addon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
